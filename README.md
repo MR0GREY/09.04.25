@@ -5,10 +5,10 @@
 Выполнил как lesson1.html.
 
 ### Картинка 1:
-![lesson3](practic/№3/1.png)
+![lesson3](practic/№3/1.jpg)
 
 ### Картинка 2:
-![lesson4](practic/№4/2.png.png)
+![lesson4](practic/№4/2.png.jpg)
 
 ### Картинка 3:
-![lesson5](practic/№5/3.png.png)
+![lesson5](practic/№5/3.png.jpg)
